@@ -1,10 +1,11 @@
 ![image](src)
-# Arief Ruslidiantoro
-## Portfolio
+# Arief Ruslidiantoro <center>
+Programmer <center>
 
-Welcome To My Portfolio
+## Portfolio <center>
+Welcome To My Portfolio <center>
 
-### Markdown
+### My Project
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
